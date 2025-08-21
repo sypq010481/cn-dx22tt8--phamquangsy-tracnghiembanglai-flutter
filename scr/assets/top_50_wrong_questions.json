@@ -1,0 +1,452 @@
+[
+    {
+        "content": "Phương tiện bị xử phạt khi điều khiển mà trong máu có nồng độ cồn loại nào?",
+        "options": [
+            "Không khí thở > 0.25 mg/l",
+            "Máu > 0.40 mg/ml",
+            "Không bị xử phạt"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển hợp vòng màu vàng có nghĩa gì?",
+        "options": [
+            "Cả hai chiều",
+            "Cảnh báo nguy hiểm",
+            "Biển ưu tiên"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Người điều khiển phương tiện giao thông đường bộ phải làm gì khi gặp người đi bộ đang sang đường tại nơi có vạch kẻ đường dành cho người đi bộ?",
+        "options": [
+            "Giảm tốc độ, có thể đi tiếp nếu không gây nguy hiểm",
+            "Dừng lại nhường đường cho người đi bộ qua đường",
+            "Bấm còi cảnh báo và đi qua"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Biển báo nào sau đây báo hiệu đoạn đường hay xảy ra tai nạn?",
+        "options": [
+            "Biển tam giác có dấu chấm than màu đen trên nền vàng",
+            "Biển hình tròn viền đỏ có nền trắng",
+            "Biển hình chữ nhật nền xanh"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người đủ bao nhiêu tuổi trở lên thì được phép điều khiển xe mô tô hai bánh có dung tích xi lanh từ 50 cm³ đến dưới 175 cm³?",
+        "options": [
+            "Từ đủ 16 tuổi",
+            "Từ đủ 17 tuổi",
+            "Từ đủ 18 tuổi"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Khi dừng xe, đỗ xe trên đường bộ, người lái xe không được thực hiện hành vi nào sau đây?",
+        "options": [
+            "Dừng xe bên lề đường, sát mép phải",
+            "Đỗ xe dưới lòng đường đô thị",
+            "Mở cửa xe gây cản trở người đi đường"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Người lái xe mô tô có được phép sử dụng rượu, bia khi tham gia giao thông không?",
+        "options": [
+            "Chỉ được uống ít, nếu vẫn còn tỉnh táo",
+            "Không được phép trong mọi trường hợp",
+            "Chỉ cấm trong khu vực đông dân cư"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi xe phía sau xin vượt, người lái xe phía trước phải làm gì?",
+        "options": [
+            "Lái xe chậm lại, tránh về bên phải để xe sau vượt",
+            "Tăng tốc độ để xe sau không vượt được",
+            "Giữ nguyên tốc độ và đi giữa đường"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Trong hình sa hình, xe nào được quyền đi trước?",
+        "options": [
+            "Xe ưu tiên",
+            "Xe rẽ trái",
+            "Xe đi thẳng không có tín hiệu đèn"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp biển báo hiệu 'Giao nhau với đường ưu tiên', người lái xe cần làm gì?",
+        "options": [
+            "Tăng tốc nhanh chóng vượt qua",
+            "Giảm tốc độ, nhường đường nếu cần thiết",
+            "Không cần quan tâm, đi như bình thường"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Hành vi lùi xe ở đường một chiều bị nghiêm cấm trong trường hợp nào?",
+        "options": [
+            "Khi đường vắng, có thể quan sát rõ phía sau",
+            "Khi được xe phía sau nhường đường",
+            "Trong mọi trường hợp"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Trong các biển báo sau, biển nào là biển 'Cấm xe mô tô'?",
+        "options": [
+            "Biển tròn viền đỏ, nền trắng, có hình mô tô đen ở giữa",
+            "Biển hình vuông nền xanh có hình mô tô",
+            "Biển tam giác viền đỏ có hình xe mô tô"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người điều khiển xe mô tô có được vượt xe khác khi đang lên dốc không?",
+        "options": [
+            "Không được vượt",
+            "Được vượt nếu đường đủ rộng",
+            "Được vượt nếu xe trước đi chậm"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe vào đường cao tốc, người lái xe phải thực hiện như thế nào?",
+        "options": [
+            "Tăng tốc đột ngột để nhập làn",
+            "Dừng lại quan sát trước khi vào",
+            "Nhường đường cho xe đang chạy trên đường cao tốc"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Khi xảy ra tai nạn giao thông, người lái xe phải làm gì trước tiên?",
+        "options": [
+            "Lái xe rời khỏi hiện trường ngay",
+            "Giữ nguyên hiện trường và báo cơ quan chức năng",
+            "Tự thương lượng với người bị nạn"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Trong tình huống có nhiều xe đến cùng lúc tại ngã tư không có đèn, không có biển báo, xe nào được quyền đi trước?",
+        "options": [
+            "Xe bên phải",
+            "Xe đến trước",
+            "Xe bên trái"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi trời mưa to, tầm nhìn hạn chế, người lái xe mô tô cần làm gì?",
+        "options": [
+            "Tăng tốc để vượt qua đoạn mưa",
+            "Bật đèn chiếu gần và giảm tốc độ",
+            "Đi vào giữa đường để tránh nước"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Hành vi nào sau đây bị cấm khi tham gia giao thông?",
+        "options": [
+            "Sử dụng điện thoại di động khi điều khiển xe",
+            "Đội mũ bảo hiểm đúng quy chuẩn",
+            "Nhường đường cho xe ưu tiên"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi thấy người khuyết tật, người già, trẻ em qua đường, người lái xe cần:",
+        "options": [
+            "Giảm tốc độ hoặc dừng lại nhường đường",
+            "Bấm còi cho họ biết để tránh",
+            "Tăng tốc vượt qua nhanh chóng"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Đạo đức người lái xe mô tô được thể hiện như thế nào trong tham gia giao thông?",
+        "options": [
+            "Lái xe cẩn thận, tôn trọng người đi đường",
+            "Chỉ cần đúng luật là đủ",
+            "Không cần quan tâm người khác nếu mình không gây tai nạn"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe mô tô trên đường trơn trượt, người lái xe cần làm gì để đảm bảo an toàn?",
+        "options": [
+            "Đi thật nhanh để tránh trơn trượt",
+            "Giữ tay lái chắc, đi chậm, tránh phanh gấp",
+            "Phanh gấp để dừng xe nhanh chóng"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Tốc độ tối đa cho xe mô tô 2 bánh trên đường đôi có dải phân cách giữa trong khu vực đông dân cư là bao nhiêu?",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Ý nghĩa của vạch kẻ đường màu vàng nét đứt là gì?",
+        "options": [
+            "Phân chia hai chiều xe chạy, được phép lấn làn khi vượt",
+            "Phân chia làn cùng chiều",
+            "Cấm vượt"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp tín hiệu đèn giao thông màu vàng đang bật sáng, người lái xe phải làm gì?",
+        "options": [
+            "Tăng tốc vượt nhanh trước khi đèn đỏ",
+            "Phanh gấp lại ngay",
+            "Dừng lại trước vạch dừng, trừ khi đã quá gần không thể dừng an toàn"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Khoảng cách an toàn giữa hai xe khi đang chạy với tốc độ trên 60km/h là bao nhiêu?",
+        "options": [
+            "35 m",
+            "50 m",
+            "70 m"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Trong các loại xe sau, xe nào được quyền ưu tiên đi trước tại nơi giao nhau?",
+        "options": [
+            "Xe quân sự đang làm nhiệm vụ khẩn cấp",
+            "Xe chở khách",
+            "Xe mô tô"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển báo 'Cấm xe mô tô' có hiệu lực từ đâu?",
+        "options": [
+            "Từ vị trí đặt biển trở đi",
+            "Cách vị trí đặt biển 10m",
+            "Sau ngã tư tiếp theo"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người lái xe mô tô muốn chuyển hướng phải thực hiện như thế nào?",
+        "options": [
+            "Giảm tốc độ, bật tín hiệu báo hướng rẽ, quan sát an toàn",
+            "Tăng tốc để vượt nhanh",
+            "Bấm còi để báo hiệu người đi đường"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi vượt xe khác, người lái xe cần tuân thủ nguyên tắc nào?",
+        "options": [
+            "Vượt bên trái và giữ khoảng cách an toàn",
+            "Vượt bên phải nếu tiện",
+            "Bấm còi và vượt bất cứ lúc nào thấy đủ khoảng trống"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi xe phía trước đang rẽ trái, người lái mô tô phía sau muốn vượt thì làm gì?",
+        "options": [
+            "Vượt bên trái xe phía trước",
+            "Vượt bên phải nếu an toàn",
+            "Chờ xe phía trước rẽ xong mới vượt"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Người điều khiển xe mô tô có được phép sử dụng rượu bia khi tham gia giao thông không?",
+        "options": [
+            "Chỉ được uống nếu còn tỉnh táo",
+            "Không được uống dù bất kỳ nồng độ nào",
+            "Được uống dưới 50ml rượu"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi tránh xe đi ngược chiều trên đoạn đường hẹp, người lái xe phải làm gì?",
+        "options": [
+            "Lấn sang làn bên trái để tránh",
+            "Dừng lại nhường đường nếu cần thiết",
+            "Tăng tốc để vượt qua nhanh"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Xe mô tô khi tham gia giao thông trên đường bộ phải đi như thế nào cho đúng luật?",
+        "options": [
+            "Đi ở giữa làn ô tô để đảm bảo an toàn",
+            "Đi sát lề bên phải theo chiều đi",
+            "Đi bất kỳ chỗ nào còn trống"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi điều khiển xe vào đường giao nhau không có biển báo hoặc đèn tín hiệu, người lái xe phải nhường đường như thế nào?",
+        "options": [
+            "Nhường cho xe đi bên phải",
+            "Nhường cho xe đi bên trái",
+            "Không cần nhường nếu đi thẳng"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người điều khiển xe mô tô cần phanh như thế nào để đảm bảo an toàn?",
+        "options": [
+            "Phanh trước thật mạnh",
+            "Phanh cả hai bánh, tăng lực từ từ",
+            "Phanh bánh sau liên tục"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi xe mô tô dừng đèn đỏ tại ngã tư, người lái xe cần làm gì?",
+        "options": [
+            "Dừng trước vạch dừng",
+            "Dừng bất kỳ vị trí nào thuận tiện",
+            "Lấn lên vạch dành cho người đi bộ"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Hành vi nào sau đây bị nghiêm cấm khi tham gia giao thông?",
+        "options": [
+            "Đi xe mô tô không có gương chiếu hậu bên trái",
+            "Đi xe mô tô không bật đèn pha vào ban ngày",
+            "Đi xe mô tô bằng 1 bánh trên đường"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Trong tình huống sương mù, người lái xe mô tô nên làm gì?",
+        "options": [
+            "Bật đèn chiếu gần và giảm tốc độ",
+            "Bật đèn pha và tăng tốc",
+            "Tắt đèn để tiết kiệm điện"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp biển báo 'Đường cấm mô tô', người lái xe phải xử lý như thế nào?",
+        "options": [
+            "Đi tiếp nếu không có CSGT",
+            "Chọn đường khác, không đi vào",
+            "Chạy sát lề để tránh bị phát hiện"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Hành vi điều khiển xe không đội mũ bảo hiểm đúng quy định bị xử lý như thế nào?",
+        "options": [
+            "Không sao nếu đoạn đường ngắn",
+            "Bị xử phạt hành chính theo luật",
+            "Không bị xử lý nếu là người lớn"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi tham gia giao thông, khoảng cách an toàn giữa hai xe mô tô đang chạy là bao nhiêu?",
+        "options": [
+            "Tối thiểu 30 mét",
+            "Tùy vào cảm giác người lái",
+            "Không cần giữ nếu đường trống"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Trên đường quốc lộ không có dải phân cách, người điều khiển xe mô tô được chạy với tốc độ tối đa bao nhiêu?",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Khi vượt xe khác trên đường hai chiều, người lái xe mô tô cần làm gì trước khi vượt?",
+        "options": [
+            "Ra tín hiệu bằng tay rồi vượt",
+            "Bấm còi và vượt ngay",
+            "Quan sát, bật tín hiệu, đảm bảo an toàn rồi vượt"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Khi rẽ trái tại ngã tư có đèn tín hiệu, người điều khiển xe mô tô phải thực hiện như thế nào?",
+        "options": [
+            "Chuyển hướng ngay khi đèn còn vàng",
+            "Nhường cho xe đi thẳng và người đi bộ",
+            "Đi theo xe phía trước để không bị kẹt"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Trên đường trơn hoặc có cát sỏi, người lái xe nên điều khiển mô tô thế nào?",
+        "options": [
+            "Giữ ga đều, không phanh gấp",
+            "Tăng tốc để qua nhanh đoạn trơn",
+            "Nghiêng xe để bám đường tốt hơn"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp biển báo phụ gắn dưới biển báo chính, người điều khiển xe cần hiểu như thế nào?",
+        "options": [
+            "Có thể bỏ qua biển phụ",
+            "Biển phụ chỉ có tác dụng minh họa",
+            "Biển phụ bổ sung ý nghĩa biển chính"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "content": "Trường hợp nào sau đây được phép quay đầu xe trên đường?",
+        "options": [
+            "Khi không có biển cấm quay đầu",
+            "Khi tiện lợi và không bị CSGT thấy",
+            "Bất kỳ lúc nào nếu đường vắng"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Kỹ thuật ôm cua an toàn cho xe mô tô là gì?",
+        "options": [
+            "Vào cua với tốc độ cao rồi bóp thắng gấp",
+            "Giảm tốc trước khi vào cua, nghiêng người theo cua",
+            "Giữ nguyên tốc độ và đánh lái nhanh"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Tại nơi đường giao nhau có vòng xuyến, xe mô tô muốn đi thẳng phải nhường đường như thế nào?",
+        "options": [
+            "Nhường xe từ bên trái",
+            "Nhường xe trong vòng xuyến",
+            "Không cần nhường xe nào"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "content": "Biển báo nào sau đây là biển báo hiệu lệnh?",
+        "options": [
+            "Biển hình tròn, nền xanh, hình vẽ màu trắng",
+            "Biển tam giác, viền đỏ, nền vàng",
+            "Biển chữ nhật, nền trắng, chữ đen"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

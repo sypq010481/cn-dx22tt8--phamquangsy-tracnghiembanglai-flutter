@@ -1,0 +1,323 @@
+[
+    {
+        "content": "Biển nào cấm xe rẽ trái?",
+        "imageAsset": "assets/images/317.jpg",
+        "options": [
+            "Biển 1.",
+            "Biển 2.",
+            "Ca 2 biển"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển nào là biển \\\"Tốc độ tối đa cho phép về ban đêm\\\"?",
+        "imageAsset": "assets/images/334.jpg",
+        "options": [
+            "Biển 1.",
+            "Biển 2.",
+            "Ca 2 biển"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển nào báo hiệu nguy hiểm giao nhau với đường sắt?",
+        "imageAsset": "assets/images/377.jpg",
+        "options": [
+            "Biển 1 và Biển 2.",
+            "Biển 1 và Biển 3.",
+            "Biển 2 và Biển 3.",
+            "Cả ba biển."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển nào cấm xe rẽ phải?",
+        "imageAsset": "assets/images/318.jpg",
+        "options": [
+            "Biển 1.",
+            "Biển 2.",
+            "Ca 2 biển"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển nào cấm xe rẽ trái và phải?",
+        "imageAsset": "assets/images/319.jpg",
+        "options": [
+            "Biển 1.",
+            "Biển 2.",
+            "Ca 2 biển"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp đèn đỏ, người lái xe cần làm gì?",
+        "options": [
+            "Dừng lại trước vạch dừng.",
+            "Tiếp tục đi nếu không có xe khác.",
+            "Bấm còi để vượt qua.",
+            "Tăng tốc để vượt qua nhanh."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe mô tô tay ga xuống dốc người lái xe cần làm gì?",
+        "options": [
+            "Giữ tay ga, dùng phanh trước sau.",
+            "Tắt máy, dùng phanh.",
+            "Phanh trước và tắt máy.",
+            "Phanh sau và tắt máy."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người điều khiển giao thông là ai?",
+        "options": [
+            "Cảnh sát giao thông.",
+            "Người đi đường.",
+            "Người bán hàng.",
+            "Người lái xe."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Đèn tín hiệu giao thông gồm những màu nào?",
+        "options": [
+            "Đỏ, vàng, xanh.",
+            "Trắng, đỏ, vàng.",
+            "Xanh dương, đỏ, vàng.",
+            "Cam, đỏ, xanh."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển báo cấm có hình gì?",
+        "options": [
+            "Tròn, viền đỏ, nền trắng, hình vẽ màu đen.",
+            "Tam giác, viền đỏ, nền vàng.",
+            "Vuông, nền xanh, hình vẽ trắng.",
+            "Chữ nhật, nền đỏ."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người lái xe phải làm gì khi đi đến nơi giao nhau?",
+        "options": [
+            "Giảm tốc độ, quan sát và nhường đường theo quy định.",
+            "Tăng tốc độ để vượt qua nhanh.",
+            "Bấm còi liên tục.",
+            "Dừng xe giữa giao lộ."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Trong khu dân cư, người lái xe phải chạy với tốc độ tối đa bao nhiêu?",
+        "options": [
+            "50 km/h.",
+            "60 km/h.",
+            "40 km/h.",
+            "70 km/h."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp xe cứu thương đang làm nhiệm vụ, người tham gia giao thông phải làm gì?",
+        "options": [
+            "Nhường đường.",
+            "Chạy song song.",
+            "Tăng tốc vượt.",
+            "Bám theo sau."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người ngồi sau xe mô tô có cần đội mũ bảo hiểm không?",
+        "options": [
+            "Có.",
+            "Không cần.",
+            "Tùy người lái.",
+            "Chỉ cần khi đi xa."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Tốc độ tối đa của xe mô tô dưới 50cc trong khu vực đông dân cư là?",
+        "options": [
+            "40 km/h.",
+            "50 km/h.",
+            "60 km/h.",
+            "30 km/h."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe trên đường trơn trượt, người lái xe nên làm gì?",
+        "options": [
+            "Giảm tốc độ, đi chậm và giữ khoảng cách an toàn.",
+            "Tăng tốc vượt nhanh qua.",
+            "Phanh gấp.",
+            "Bấm còi liên tục."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đến gần xe buýt đang dừng đón trả khách, người lái xe phải làm gì?",
+        "options": [
+            "Giảm tốc độ, quan sát cẩn thận.",
+            "Tăng tốc để vượt.",
+            "Bấm còi và vượt nhanh.",
+            "Dừng xe chờ."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Xe mô tô được chở tối đa bao nhiêu người?",
+        "options": [
+            "2 người.",
+            "3 người.",
+            "1 người.",
+            "4 người."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe trong hầm đường bộ, người lái xe cần bật đèn gì?",
+        "options": [
+            "Đèn chiếu gần.",
+            "Đèn pha.",
+            "Không bật đèn.",
+            "Đèn tín hiệu."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi xe bị nổ lốp, người lái xe nên làm gì đầu tiên?",
+        "options": [
+            "Giữ chặt tay lái và giảm tốc độ từ từ.",
+            "Phanh gấp.",
+            "Tăng tốc vượt lên.",
+            "Dừng ngay lập tức giữa đường."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đi qua đoạn đường ngập nước, người lái xe nên làm gì?",
+        "options": [
+            "Đi chậm, số thấp.",
+            "Tăng tốc vượt qua.",
+            "Dừng xe giữa chừng.",
+            "Bấm còi liên tục."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Biển báo nguy hiểm có dạng gì?",
+        "options": [
+            "Tam giác đều, viền đỏ, nền vàng.",
+            "Tròn, viền đỏ.",
+            "Vuông, nền xanh.",
+            "Chữ nhật, nền trắng."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi bị mỏi mắt khi lái xe, người lái nên làm gì?",
+        "options": [
+            "Dừng xe nghỉ ngơi.",
+            "Tăng tốc để nhanh về.",
+            "Mở cửa kính cho gió vào.",
+            "Bấm còi liên tục."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Người đủ điều kiện thi bằng lái xe hạng A1 phải đủ bao nhiêu tuổi?",
+        "options": [
+            "18 tuổi.",
+            "16 tuổi.",
+            "17 tuổi.",
+            "20 tuổi."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Trong khi điều khiển xe, người lái không được sử dụng gì?",
+        "options": [
+            "Điện thoại di động.",
+            "Kính râm.",
+            "Mũ bảo hiểm.",
+            "Áo khoác."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Lái xe khi uống rượu bia sẽ bị xử lý như thế nào?",
+        "options": [
+            "Bị phạt tiền và tước bằng lái.",
+            "Được nhắc nhở.",
+            "Không sao nếu ít.",
+            "Tùy tình huống."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi điều khiển xe, người lài xe nên bật đèn gì?",
+        "options": [
+            "Đèn chiếu gần.",
+            "Đèn pha.",
+            "Không bật đèn.",
+            "Đèn tín hiệu."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi gặp biển báo 'Cấm dừng và đỗ', người lái xe phải làm gì?",
+        "options": [
+            "Không được dừng và đỗ xe.",
+            "Có thể dừng tạm thời.",
+            "Được đỗ xe nếu không có người.",
+            "Chỉ cấm đỗ xe tải."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đi qua khu vực đông dân cư, người lái xe nên chú ý điều gì?",
+        "options": [
+            "Giảm tốc độ, quan sát người đi bộ và trẻ em.",
+            "Tăng tốc để vượt qua nhanh.",
+            "Bấm còi liên tục.",
+            "Dừng xe giữa đường."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đi xe tài, người lài xe nên bật đèn gì?",
+        "options": [
+            "Đèn chiếu gần.",
+            "Đèn pha.",
+            "Không bật đèn.",
+            "Đèn tín hiệu."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đi xe tài, người lài xe nên bật đèn gì?",
+        "options": [
+            "Đèn chiếu gần.",
+            "Đèn pha.",
+            "Không bật đèn.",
+            "Đèn tín hiệu."
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "content": "Khi đi qua khu vực đông dân cư, người lái xe nên chú ý điều gì?",
+        "options": [
+            "Giảm tốc độ, quan sát người đi bộ và trẻ em.",
+            "Tăng tốc để vượt qua nhanh.",
+            "Bấm còi liên tục.",
+            "Dừng xe giữa đường."
+        ],
+        "correctAnswerIndex": 0
+    }
+]
